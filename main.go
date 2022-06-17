@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("faker-Generator")
+	fmt.Println("faker-generator")
 }
